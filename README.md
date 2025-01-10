@@ -42,3 +42,4 @@
 * at last it will give best.tflite
 * replace that file path in code (testvid.py)
 * Run the testvid.py code  
+* the above command will start the detection procedures
